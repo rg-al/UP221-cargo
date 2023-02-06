@@ -22,4 +22,5 @@ Shifting gears on our project, we’ve decided to focus our research and project
 Community organization efforts: We additionally seek to build a dataset that highlights the geographic location, date of occurrence, social context (e.g., neighborhood demographics), and method of community organization efforts in response to warehouse expansion, construction, and operations. These may include protests against unwanted land uses or mobilization against warehouse working conditions.
 
 ## Concerns
+#### Minor Concerns
 Concerns about availability of demographic and health outcome conditions of years prior. Still looking to clarify timeline scope based on the availability of data.
