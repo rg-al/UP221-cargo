@@ -22,7 +22,7 @@ includes graphics for a GIF of the warehouses built over time
 
 provides an overview of who lives in Ontario, used for the introduction in storymap
 
-[5. Analysis.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project%20Materials/Final%20notebooks/4.%20Analysis.ipynb)
+[5. Analysis.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/5.%20Analysis.ipynb)
 
 largest notebook, includes most of the maps and charts
 
